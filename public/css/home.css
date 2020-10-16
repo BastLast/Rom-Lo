@@ -186,6 +186,10 @@ td {
 	width: 200px;
 }
 
+th {
+	font-size: 25px;
+}
+
 .container .text {
 	text-align: left;
 	color: #23272a;
