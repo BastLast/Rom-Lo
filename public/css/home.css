@@ -163,6 +163,24 @@ textarea {
 	color: #23272a;
 }
 
+.container .titleSpectacle {
+	font-weight: 700;
+	line-height: 120%;
+	font-size: 60px;
+	color: #23272a;
+	text-align: center;
+}
+
+.subtitle{
+	text-align: center;
+}
+
+td {
+	text-align: center !important;
+	line-height: 75px;
+	width:200px;
+}
+
 .container .text {
 	text-align: left;
 	color: #23272a;
@@ -186,7 +204,7 @@ textarea {
 .container .description {
 	display: flex;
 	flex-direction: column;
-	align-items: flex-start;
+	align-items: center;
 }
 
 .center {
