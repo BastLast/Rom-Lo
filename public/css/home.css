@@ -423,7 +423,7 @@ textarea {
 	height: 100%;
 	width: 100%;
 	margin: 0 auto;
-	margin-top: 175px;
+	margin-top: 75px;
 }
 
 .waves {
@@ -546,24 +546,31 @@ textarea {
 	font-weight: 600;
 }
 
-.el-reseaux-youtube, .el-reseaux-facebook, .el-reseaux-twitter, .el-reseaux-instagram {
-	background-repeat:no-repeat;
-	background-position:center;
-	background-size:contain;
-	display:inline-table;
-	color:transparent;
-	width:24px;
-	height:24px;
-	text-indent:-99999px;
-	overflow:hidden;
+.el-reseaux-youtube,
+.el-reseaux-facebook,
+.el-reseaux-twitter,
+.el-reseaux-instagram {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	display: inline-table;
+	color: transparent;
+	width: 24px;
+	height: 24px;
+	text-indent: -99999px;
+	overflow: hidden;
 }
 
-.el-reseaux-facebook:hover, .el-reseaux-instagram:hover, .el-reseaux-snapchat:hover, .el-reseaux-twitter:hover,.el-reseaux-youtube:hover {
-	color:transparent;
+.el-reseaux-facebook:hover,
+.el-reseaux-instagram:hover,
+.el-reseaux-snapchat:hover,
+.el-reseaux-twitter:hover,
+.el-reseaux-youtube:hover {
+	color: transparent;
 }
 
 .mls {
-	margin-left:1rem;
+	margin-left: 1rem;
 }
 
 @media screen and (max-height: 450px) {
