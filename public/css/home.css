@@ -209,8 +209,14 @@ textarea {
 }
 
 .Bigquestion {
-	min-width: 150px;
 	max-width: 400px;
+	min-width: 150px;
+	max-height: 400px;
+	margin-right: 50px;
+}
+
+.VeryBigquestion {
+	max-width: 600px;
 	min-width: 150px;
 	max-height: 400px;
 	margin-right: 50px;
